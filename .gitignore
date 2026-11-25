@@ -1,0 +1,21 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
